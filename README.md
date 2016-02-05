@@ -1,2 +1,3 @@
 # My_TankGame
-a game
+
+[详情](http://www.cnblogs.com/ganhang-acm/p/5183616.html)
