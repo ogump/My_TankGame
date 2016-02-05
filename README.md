@@ -1,3 +1,3 @@
 # My_TankGame
 
-[详情](http://www.cnblogs.com/ganhang-acm/p/5183616.html)
+[项目详情请点我](http://www.cnblogs.com/ganhang-acm/p/5183616.html)
